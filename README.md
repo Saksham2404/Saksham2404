@@ -21,11 +21,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saksham-malhotra-06974a298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-malhotra-06974a298/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saksham-malhotra-06974a298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-malhotra-06974a298" height="30" width="40" /></a>
 <a href="https://instagram.com/sxksham.af" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sxksham.af" height="30" width="40" /></a>
 </p>
 
