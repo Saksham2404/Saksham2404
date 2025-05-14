@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Saksham ✨</h1>
-<h3 align="center">A passionate coder from India</h3>
+<h1 align="left">Hi, I'm Saksham ✨</h1>
+<h3 align="left">A passionate coder from India</h3>
 
 - 🔭 I’m currently working on **a personal website**
 
